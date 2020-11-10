@@ -10,7 +10,8 @@
 > Furthermore, this will only work if you decide to make your repository public (which you can do under Settings -> Options),
 > which I would encourage you to do – up to you. A lot of good science happens out in the open these days. 
 > Good luck!
-BUMBUMBUMHABIBAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BUMBUMBUMHABIBAAAAAAAAAAAAAAAAAAAAAAAAAAAsfdsjfjsdfshdgsgfh
+
 ## Project summary (<300 words)
 Describe the overall aim of your project and what you have achieved.
 Write summary...
