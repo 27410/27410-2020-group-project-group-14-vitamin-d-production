@@ -10,12 +10,12 @@
 > Furthermore, this will only work if you decide to make your repository public (which you can do under Settings -> Options),
 > which I would encourage you to do – up to you. A lot of good science happens out in the open these days. 
 > Good luck!
- suns>
+
 ## Project summary (<300 words)
-Describe the overall aim of your project and what you have achieved.
-Write summary...
+
+> The aim of this project is to simulate vitamin D production in yeast (Saccharomyces cerevisiaea), as well as optimise the reaction in various ways (insert ways)
 
 ## Project overview
 Describe how your project is organized ...
-'[Test text here]' 
+'[The project is organised with a Report file, which includes the actual text for the report, as well as a .py file with the code for the simulations.]' 
 
