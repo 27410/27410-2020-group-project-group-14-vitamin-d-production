@@ -8,13 +8,9 @@ Step 1: Create a new branch
     git checkout -b "Insert name here"
 
 Step 2: Do your changes in the code
-
 Step 3: Switch back to the main branch
     git checkout main
-
-Step 3.5: Git pull to main, just to be sure
-    git pull
-
+    
 Step 4: Add the files and commit them
     git add .
     git commint -m "comments"
