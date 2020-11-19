@@ -117,7 +117,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 1,
+=======
    "execution_count": 16,
+>>>>>>> 4217c6de55601aa5ce04bf96a24646d608c167ea
    "metadata": {},
    "outputs": [],
    "source": [
@@ -129,7 +133,11 @@
   },
   {
    "cell_type": "code",
+<<<<<<< HEAD
+   "execution_count": 2,
+=======
    "execution_count": 17,
+>>>>>>> 4217c6de55601aa5ce04bf96a24646d608c167ea
    "metadata": {},
    "outputs": [
     {
@@ -142,7 +150,11 @@
        "                <td>M_ecYeastGEM_prot_v8__46__3__46__4</td>\n",
        "            </tr><tr>\n",
        "                <td><strong>Memory address</strong></td>\n",
+<<<<<<< HEAD
+       "                <td>0x07f21d423c710</td>\n",
+=======
        "                <td>0x07fa439ec3470</td>\n",
+>>>>>>> 4217c6de55601aa5ce04bf96a24646d608c167ea
        "            </tr><tr>\n",
        "                <td><strong>Number of metabolites</strong></td>\n",
        "                <td>4180</td>\n",
@@ -162,10 +174,17 @@
        "          </table>"
       ],
       "text/plain": [
+<<<<<<< HEAD
+       "<Model M_ecYeastGEM_prot_v8__46__3__46__4 at 0x7f21d423c710>"
+      ]
+     },
+     "execution_count": 2,
+=======
        "<Model M_ecYeastGEM_prot_v8__46__3__46__4 at 0x7fa439ec3470>"
       ]
      },
      "execution_count": 17,
+>>>>>>> 4217c6de55601aa5ce04bf96a24646d608c167ea
      "metadata": {},
      "output_type": "execute_result"
     }
@@ -421,17 +440,11 @@
    ]
   },
   {
-   "cell_type": "markdown",
-   "metadata": {},
-   "source": [
-    "`<<<<<<< HEAD`"
-   ]
-  },
-  {
    "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
+<<<<<<< HEAD
    "source": [
     "pathways = predictor.run(product=\"ethanol\", max_predictions=1)"
    ]
@@ -1435,13 +1448,8 @@
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": []
-  },
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "metadata": {},
-   "outputs": [],
+=======
+>>>>>>> 4217c6de55601aa5ce04bf96a24646d608c167ea
    "source": []
   },
   {
