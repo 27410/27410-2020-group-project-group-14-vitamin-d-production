@@ -23,3 +23,17 @@ Step 6: Update the online verion
 
 Step 7: Delete your working branch
     git branch -d "Insert name here"
+
+
+
+
+If merge conflicts come about:
+Step 0: Make sure nbdev is installed
+    pip install nbdev
+
+Step 1: Use nbdev to fix the conflict
+    nbdev_fix_merge file_name
+
+Step 2: Manually identify the problem
+
+Step 3: Proceeed with using Git
