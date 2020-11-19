@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/[PUT-YOUR-REPOSITORY-HERE]/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/27410/27410-2020-group-project-group-14-vitamin-d-production/main)
 
 # 27410 - Group assignment - Group 14 - [TITLE]
 
@@ -17,5 +17,7 @@
 
 ## Project overview
 Describe how your project is organized ...
-'[The project is organised with a Report file, which includes the actual text for the report, as well as a .py file with the code for the simulations.]' 
+This project is organized with the text of the report being presented in the file [Report.ipynb](Report.ipynb) and the code for the results presented are locaed in the [Model code Yeast8.ipynb](Model code Yeast8.ipynb) file. 
+The metabolic models that are used are located in the "data" folder and the figures are located in the "figures" folder.
+
 
