@@ -40,3 +40,5 @@ Step 1: Use nbdev to fix the conflict
 Step 2: Manually identify the problem
 
 Step 3: Proceeed with using Git
+
+
