@@ -1,4 +1,6 @@
 This is a guide for how to work collaboratively with GitHub and Git
+The steps are inspired by this article: https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/
+
 
 * Working with the terminal in Jupyter Classrom
 Step 0: Pull all changes to main into your own repository
@@ -8,13 +10,14 @@ Step 1: Create a new branch
     git checkout -b "Insert name here"
 
 Step 2: Do your changes in the code
-Step 3: Switch back to the main branch
-    git checkout main
     
-Step 4: Add the files and commit them
+Step 3: Add the files and commit them
     git add .
     git commint -m "comments"
 
+Step 4: Switch back to the main branch
+    git checkout main
+    
 Step 5: Merge your branches
      git merge "Insert name here" --no-ff
 
@@ -37,3 +40,5 @@ Step 1: Use nbdev to fix the conflict
 Step 2: Manually identify the problem
 
 Step 3: Proceeed with using Git
+
+
