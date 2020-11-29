@@ -19,13 +19,19 @@
 Describe how your project is organized ...
 This project is organized with the text of the report being presented in the file [Report.ipynb](Report.ipynb) and the code for the results presented are located in different files across the repository.
 The project code is meant to be read in the following order:
-1. [1-Code_Heterologous-pathway.ipynb](1-Code_Heterologous-pathway.ipynb) - this document covers the model and addition of the heterologous reactions
+
+0. [0-Code_Memote.ipynb] (0-Code_Memote.ipynb) - this document covers the memote analyses of four different yeast models.
+
+1. [1-Code_Heterologous-pathway.ipynb](1-Code_Heterologous-pathway.ipynb) - this document covers the model and addition of the heterologous reactions.
 
 2. [2-Code_Carbon-sources.ipynb](2-Code_Carbon-sources.ipynb) - this document covers analysis of what carbon source may be most efficient.
 
 3. [3-Code_PPP.ipynb](3-Code_PPP.ipynb) - this document covers the phenotypic phase plan analysis of manual knock-outs.
 
-4. []
+4. [4-Code_Automatic-optimization.ipynb] (4-Code_Automatic-optimization.ipynb) - This document covers automatic optimization attempts such as optGene
+
+
+
 the [Model code Yeast8.ipynb](Model code Yeast8.ipynb) file. 
 The 
 The metabolic models that are used are located in the "data" folder and the figures are located in the "figures" folder.
