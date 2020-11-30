@@ -15,9 +15,9 @@ The project code is meant to be read in the following order:
 
 1. [1-Code_Heterologous-pathway.ipynb](1-Code_Heterologous-pathway.ipynb) - this document covers the model and addition of the heterologous reactions.
 
-2. [2-Code_Carbon-sources.ipynb](2-Code_Carbon-sources.ipynb) - this document covers analysis of what carbon source may be most efficient.
+2. [2-Code_PPP.ipynb](2-Code_PPP.ipynb) - this document covers the phenotypic phase plan analysis of manual knock-outs. 
 
-3. [3-Code_PPP.ipynb](3-Code_PPP.ipynb) - this document covers the phenotypic phase plan analysis of manual knock-outs.
+3. [3-Code_Carbon-sources.ipynb](3-Code_Carbon-sources.ipynb) - this document covers analysis of what carbon source may be most efficient.
 
 4. [4-Code_Automatic-optimization.ipynb](4-Code_Automatic-optimization.ipynb) - This document covers automatic optimization attempts such as optGene
 
@@ -25,6 +25,6 @@ The project code is meant to be read in the following order:
 
 6. [6-Code_Co-factor.ipynb](6-Code_Co-factor.ipynb) - This document covers cofactor-swapping optimization analysis
 
-The metabolic models that are used are located in the "data" folder and the figures are located in the "figures" folder.
+The metabolic models that are used are located in the "data" folder, the memote analysis are in teh "memote" folder, and the figures are located in the "figures" folder.
 
 
