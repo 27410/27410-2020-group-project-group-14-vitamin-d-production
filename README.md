@@ -25,6 +25,6 @@ The project code is meant to be read in the following order:
 
 6. [6-Code_Co-factor.ipynb](6-Code_Co-factor.ipynb) - This document covers cofactor-swapping optimization analysis
 
-The metabolic models that are used are located in the "data" folder, the memote analysis are in teh "memote" folder, and the figures are located in the "figures" folder.
+The metabolic models that are used are located in the "data" folder, the memote analysis are in the "memote" folder, and the figures are located in the "figures" folder.
 
 
