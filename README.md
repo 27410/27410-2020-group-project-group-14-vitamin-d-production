@@ -4,7 +4,7 @@
 
 ## Project summary
 
-The aim of this project is to simulate vitamin D production in yeast (Saccharomyces cerevisiaea), as well as optimise the reaction in various ways such as optGene, and FSEOF. Furthermore, manual knockouts have been utilised to attempt optimization. The pathway used is from a research paper, using zymosterol (a native metabolite) as precursor to produce 7-Dehydrocholesterol, which is a precursor to vitamin D. This is done through three reactions, with a final concentration reached of 0.041 mmol gDW^-1 h^-1. The optimization analyses used did not lead to any useful optimization method.
+The aim of this project is to simulate vitamin D production in yeast (Saccharomyces cerevisiaea), as well as optimise the reaction in various ways such as optGene, and FSEOF. Furthermore, manual knockouts have been utilised to attempt optimization. The pathway used is from a research paper, using zymosterol (a native metabolite) as precursor to produce 7-Dehydrocholesterol, which is a precursor to vitamin D. This is done through three reactions, with a final concentration reached of 0.041 mmol gDW<sup>-1</sup> h<sup>-1</sup>. The optimization analyses used did not lead to any useful optimization method.
 
 ## Project overview
 Describe how your project is organized ...
