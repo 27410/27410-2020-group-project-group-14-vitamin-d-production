@@ -1,0 +1,44 @@
+This is a guide for how to work collaboratively with GitHub and Git
+The steps are inspired by this article: https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/
+
+
+* Working with the terminal in Jupyter Classrom
+Step 0: Pull all changes to main into your own repository
+    git pull
+    
+Step 1: Create a new branch
+    git checkout -b "Insert name here"
+
+Step 2: Do your changes in the code
+    
+Step 3: Add the files and commit them
+    git add .
+    git commint -m "comments"
+
+Step 4: Switch back to the main branch
+    git checkout main
+    
+Step 5: Merge your branches
+     git merge "Insert name here" --no-ff
+
+Step 6: Update the online verion
+    git push
+
+Step 7: Delete your working branch
+    git branch -d "Insert name here"
+
+
+
+
+If merge conflicts come about:
+Step 0: Make sure nbdev is installed
+    pip install nbdev
+
+Step 1: Use nbdev to fix the conflict
+    nbdev_fix_merge file_name
+
+Step 2: Manually identify the problem
+
+Step 3: Proceeed with using Git
+
+
